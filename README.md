@@ -1,2 +1,2 @@
 # taro-vite
-基于tar框架、vite打包的框架
+基于taro应用、vite打包的框架
