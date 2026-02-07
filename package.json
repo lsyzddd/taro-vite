@@ -43,6 +43,7 @@
   "dependencies": {
     "@babel/helper-compilation-targets": "^7.27.2",
     "@babel/runtime": "^7.28.4",
+    "@babel/runtime-corejs3": "^7.29.0",
     "@tarojs/components": "4.1.7",
     "@tarojs/helper": "4.1.7",
     "@tarojs/plugin-framework-react": "4.1.7",
